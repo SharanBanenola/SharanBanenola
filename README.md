@@ -1,4 +1,4 @@
-![Black Elegant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/36f8a3bd-70d7-4ce4-b579-8530dd7e3e07)
+![[Black Elegant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/36f8a3bd-70d7-4ce4-b579-8530dd7e3e07)]
 
 <h1 align="center">Hi 👋, There!
 <h3 align="center">"📊 Decoding data, 📖 uncovering stories, 🚀 driving decisions!"</h3>
